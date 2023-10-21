@@ -34,10 +34,6 @@
   },
   "dependencies": {
     "@crossmint/client-sdk-react-ui": "^0.1.8-alpha.0",
-    "auction-house": "https://github.com/AJO-Ltd/auction-house.git",
-    "candy-machine": "https://github.com/AJO-Ltd/candy-machine.git",
-    "gumdrop": "https://github.com/AJO-Ltd/gumdrop.git",
-    "@google/model-viewer": "^2.1.1",
     "@hookform/resolvers": "^2.8.4",
     "@mantine/core": "^5.10.3",
     "@mantine/hooks": "^5.10.3",
