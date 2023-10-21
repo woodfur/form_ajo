@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../auction-house"
+		},
+		{
+			"path": "../../../candy-machine"
+		},
+		{
+			"path": "../../../gumdrop"
+		},
+		{
+			"path": "../../../program-shared"
+		}
+	],
+	"settings": {}
+}
